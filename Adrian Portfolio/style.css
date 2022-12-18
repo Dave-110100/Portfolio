@@ -111,7 +111,7 @@ nav.sticky .menu-btn{
 .home{
   height: 100vh;
   width: 100%;
-  background: url("images/background.png") no-repeat;
+  background: url("Images/background.png") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -206,7 +206,7 @@ section .title span::after{
 .about .about-details .left{
   width: 45%;
 }
-.about .left img{
+.about .left Img{
   height: 400px;
   width: 400px;
   object-fit: cover;
@@ -345,7 +345,7 @@ section .title span::after{
 .project .project-details .left{
   width: 45%;
 }
-.project .left img{
+.project .left Img{
   height: 400px;
   width: 540px;
   object-fit: cover;
@@ -459,7 +459,7 @@ footer .text span a:hover{
   }
 }
 @media (max-width: 900px) {
-  .about .left img{
+  .about .left Img{
     height: 350px;
     width: 350px;
   }
